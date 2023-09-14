@@ -33,11 +33,10 @@ Step 8 :
 Save and Run the Program.
 
 ## Program:
-Devoloped by : PERARASU M
-
-
-Register No : 212222100033
-
+```
+Devoloped by : KATHIRVEL.A
+Register No : 212221230047
+```
 block.x=1023
 
 ```python
